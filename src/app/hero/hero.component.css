@@ -1,0 +1,12 @@
+.avt-img {
+    border-radius: 80%;
+    border: 9px solid white;
+    padding: 7px;
+}
+
+.header-title {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10%;
+}
